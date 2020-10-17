@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hola 👋
 
 - 🌱 I’m currently learning Full Stack Web Development (MERN Stack) and Video Editing.
 - 💬 Ask me about CGI Stuff.
